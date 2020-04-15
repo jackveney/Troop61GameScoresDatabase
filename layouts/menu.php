@@ -23,4 +23,10 @@
       <span>View Scores</span>
     </a>
   </li>
+<li>
+    <a href="github.php">
+      <i class="glyphicon glyphicon-info-sign"></i>
+      <span>Database Version Info</span>
+    </a>
+  </li>
  </ul>
