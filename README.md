@@ -38,10 +38,10 @@
 5. Then log in by using one of the following logins, and the **username** and **password** in the corresponding fields:
 
 
-   Administrator
-   --------------------
-   **Username**: admin
-   **Password**: admin
+   Administrator       |
+   --------------------|
+   **Username**: admin |
+   **Password**: admin |
 
 6. Good luck!  
 
