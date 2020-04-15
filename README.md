@@ -35,7 +35,7 @@
 
 4. Modify the includes/config.php changing the variables to match your host, database, username and passwords.
 
-5. Then log in by using one of the following logins, and the **username** and **password** in the corresponding fields:
+5. Then log in by using the following login, and the **username** and **password** in the corresponding fields:
 
 
    Administrator       |
